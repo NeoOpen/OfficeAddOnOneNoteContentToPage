@@ -26,7 +26,8 @@
 Since this is a private add-in, you need to "sideload" it using the manifest file.
 
 1. **Download the Manifest**
-   - Get the `manifest.xml` file from the repository administrator.
+   - Get the `manifest.xml` file from the repository.
+   - [https://github.com/NeoOpen/OfficeAddOnOneNoteContentToPage/blob/main/manifest.xml](https://github.com/NeoOpen/OfficeAddOnOneNoteContentToPage/blob/main/manifest.xml)
 
 2. **Open OneNote for Web**
    - Go to [OneNote.com](https://www.onenote.com) and open your notebook.
