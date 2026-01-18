@@ -35,6 +35,7 @@ Since this is a private add-in, you need to "sideload" it using the manifest fil
    - Click **Insert** tab > **Office Add-ins**.
    - Click **Upload My Add-in**.
    - Select the `manifest.xml` file.
+   - IMPORTANT: Refresh your web page (F5).
 
 4. **Run**
    - A new button/icon will appear in the Home tab. Click it to open the task pane.
