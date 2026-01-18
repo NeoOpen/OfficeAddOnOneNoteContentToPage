@@ -2,7 +2,7 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
   <Id>5db0ed6f-b83d-4b49-ab83-abbccfc24615</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>Contoso</ProviderName>
+  <ProviderName>NeoOpen</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="OneNoteContent2Page"/>
   <Description DefaultValue="A template to get started."/>
@@ -64,7 +64,7 @@
         <bt:Image id="Icon.80x80" DefaultValue="https://neoopen.github.io/OfficeAddOnOneNoteContentToPage/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
+        <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://neoopen.github.io/OfficeAddOnOneNoteContentToPage"/>
         <bt:Url id="Commands.Url" DefaultValue="https://neoopen.github.io/OfficeAddOnOneNoteContentToPage/commands.html"/>
         <bt:Url id="Taskpane.Url" DefaultValue="https://neoopen.github.io/OfficeAddOnOneNoteContentToPage/taskpane.html"/>
       </bt:Urls>
