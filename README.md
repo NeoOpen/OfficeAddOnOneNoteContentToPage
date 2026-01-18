@@ -2,7 +2,7 @@
 
 ## 🚀 Features
 
-### 4. 📑 Batch Create Pages
+### 📑 Batch Create Pages
 - **Feature:** Creates multiple OneNote pages instantly from a text list.
 - **Usage:** Type a table of contents or experiment list (one per line) into the input box and click the "Generate!" button.
 
