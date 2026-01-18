@@ -18,7 +18,7 @@
 
 3. **Result:**
    New pages named "List 1", "List 2", and "List 3" are automatically created in the current section.
-![Example Pic 1]([https://github.com/NeoOpen/OfficeAddOnOneNoteContentToPage/blob/main/Pic1.png](https://github.com/NeoOpen/OfficeAddOnOneNoteContentToPage/blob/main/Pic1.png))
+![Example Pic 1](https://github.com/NeoOpen/OfficeAddOnOneNoteContentToPage/blob/main/Pic1.png))
 
 ---
 
